@@ -20,4 +20,4 @@ defmodule Link1 do
   end
 end
 
-Link1.run
+# Link1.run
